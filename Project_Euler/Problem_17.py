@@ -135,3 +135,4 @@ for i in range(1,1001):
     temp += len(makeword(i))
 
 print temp
+  
