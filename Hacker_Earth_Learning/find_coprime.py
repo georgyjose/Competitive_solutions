@@ -13,3 +13,4 @@ for case in range(cases):
         for k in range(1,inp+1):
             if(finder(i,k)):out+=1
     print out
+      
