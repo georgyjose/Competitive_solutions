@@ -38,3 +38,5 @@ def find(num):
     return (2 ** num - 1) % 10**9+7
 for loop in range(input()):
     print find(input())
+
+      
